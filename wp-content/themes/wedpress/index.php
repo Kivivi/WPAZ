@@ -1,3 +1,4 @@
+<?php get_header();?>
 <body>
 
     <!-- Navigation -->
@@ -166,3 +167,4 @@
 
         </div>
         <!-- /.row -->
+<?php get_footer();?>
